@@ -1,3 +1,5 @@
+[Experimental] This project is merely experimental in nature as I am using it to test out and learn the llama-index better.
+
 This is a [LlamaIndex](https://www.llamaindex.ai/) project using [Next.js](https://nextjs.org/) bootstrapped with [`create-llama`](https://github.com/run-llama/LlamaIndexTS/tree/main/packages/create-llama).
 
 ## Getting Started
